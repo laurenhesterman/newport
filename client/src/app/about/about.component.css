@@ -30,7 +30,7 @@ img {
     width: 100px;
     height: auto;
     background-color: grey;
-    box-shadow: 0 0 3px 3px rgb(56, 21, 21) inset;
+    box-shadow: 0 0 1.8px 1.8px rgb(56, 21, 21) inset;
     padding: 3px;
 }
 #tech {
